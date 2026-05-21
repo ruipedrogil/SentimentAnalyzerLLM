@@ -1,0 +1,2107 @@
+{
+  "total": 300,
+  "corretos": 233,
+  "accuracy": 0.7766666666666666,
+  "detalhes": [
+    {
+      "texto": "Excelente qualidade, entrega rápida. Amei o produto, pipoca sequinha",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9505752325057983,
+      "correto": true
+    },
+    {
+      "texto": "Produto de ótima qualidade, recomendo a todos a compra.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9404730796813965,
+      "correto": true
+    },
+    {
+      "texto": "Na realidade, o produto é bom. Porém eu estava querendo comprar um que tivesse a opção de água gelada. Olhei vários modelos e na hora de optar, me enganei. Porém é um bom produto. Só vou precisar comprar outro, mais prá frente, pois eu queria com água gelada.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9588608145713806,
+      "correto": true
+    },
+    {
+      "texto": "Fiz a compra pela loja Americanas.com, porém a transação é realizada pela loja Dominio. Devido a demora e mal atendimento dessa loja cancelei o pedido.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9565452337265015,
+      "correto": true
+    },
+    {
+      "texto": "ótimo recomendo pra todos, asdsadasdsadsadsadsadsadasd",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9131255745887756,
+      "correto": true
+    },
+    {
+      "texto": "Muito bom acabamento, regulagem bem variada. Ainda não instalei mas gostei muito do produto até o momento.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.6252086162567139,
+      "correto": false
+    },
+    {
+      "texto": "o produto é simples porem cumpre muito bem o que promete.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9453639984130859,
+      "correto": true
+    },
+    {
+      "texto": "Se não sabe mexer com Linux nem compra, produto é bacana pra quem tem conhecimento em informatica.. ;D",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9603252410888672,
+      "correto": true
+    },
+    {
+      "texto": "Não torra parelha,depende a temperatura queima o pão, o botão para descer o pão tem que apertar com força para descer",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9193499088287354,
+      "correto": true
+    },
+    {
+      "texto": "É um bom aparelho até  agora   não  me deu problema eu  recomendo. recomendo",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9599729180335999,
+      "correto": true
+    },
+    {
+      "texto": "oi? Tem que vender muito hamburguer pra pagar essa bandeja? kkkkkkkkkkkk só rindo!",
+      "esperado": "Positivo",
+      "predito": "Negativo",
+      "confianca": 0.6598995923995972,
+      "correto": false
+    },
+    {
+      "texto": "NÃO RECEBI O FREEZER ATÉ HOJE... E SOLICITEI O CANCELAMENTO DA COMPRA DESDE O DIA 03/01 POR VALE-COMPRAS E ATÉ AGORA OS VALES NÃO ENTRARAM. JÁ PAGUEI A PRIMEIRA PARCELA DESTA COMPRA E O MEU PROBLEMA NÃO FOI RESOLVIDO.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9570536613464355,
+      "correto": true
+    },
+    {
+      "texto": "Produto excelente. Atendeu a minha expectativa, resistente.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9590633511543274,
+      "correto": true
+    },
+    {
+      "texto": "quando ligo a lampada, assim que ela esquenta começa a piscar e nao para mais, sendo assim nao da para pra usar, tenho que desligar a lampada e esperar ela esfriar para ligar de novo.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9141761064529419,
+      "correto": true
+    },
+    {
+      "texto": "PRECO MUITO ALTO PARA UM NUMERO TAO REDUZIDO DE PECAS",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9569525718688965,
+      "correto": false
+    },
+    {
+      "texto": "Produto muito bom no preparo de bolo de excelente perrforma  pra preparo de massa.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8152703642845154,
+      "correto": true
+    },
+    {
+      "texto": "Produto superou minhas expectativas!!!Excelente, rápido, silencioso, fácil de montar e desmontar as peças. Produto incrível!!!! Muito bom!!! Super indico e desejo que todos possam ter um desses em seus lares! É a salvação!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9594774842262268,
+      "correto": true
+    },
+    {
+      "texto": "Muito bom, leve, potente. Marca taiff é excelente.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9034656286239624,
+      "correto": true
+    },
+    {
+      "texto": "O produto é bom porem quando coloco na velocidade máxima ele fica fazendo um barulho tipo como se tivesse algo folgado.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8594163060188293,
+      "correto": true
+    },
+    {
+      "texto": "não gostei pensei que fosse  220 volts, e era para vir com adaptador",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9302171468734741,
+      "correto": false
+    },
+    {
+      "texto": "Como posso avaliar um produto que eu ainda nem recebi, e que já a está a 1 mês atrasado a entrega ? Fica difícil avaliar assim!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9105346202850342,
+      "correto": true
+    },
+    {
+      "texto": "O aparelho é lindo, a tela é grande mas ele trava demais.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8889580368995667,
+      "correto": true
+    },
+    {
+      "texto": "A mesa é igual ao desenho,so o tampo de vidro q nao fica grudado.Mas o custo benefício é bom.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.932147741317749,
+      "correto": false
+    },
+    {
+      "texto": "Minha Mãe pede e eu compro. Ela adora! Compro a cada seis meses. Ela sempre diz que, é o suficiente.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.897730827331543,
+      "correto": true
+    },
+    {
+      "texto": "Comprei esse tablet para presentear meu neto e o produto que vcs enviaram n é o que comprei. Estou muito chateada, enviaram um tablet c teclado, sem os desenhos, bem diferente do que o que eu pedi. Espero que vcs encaminhem o produto correto e façam a troca.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9610500335693359,
+      "correto": false
+    },
+    {
+      "texto": "Veio com defeito, não recomendo de modo algum. Comprem em outra loja, não na americanas",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9799016714096069,
+      "correto": true
+    },
+    {
+      "texto": "Produto de ótima qualidade, eu recomendo o produto",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9201249480247498,
+      "correto": true
+    },
+    {
+      "texto": "É o primeiro iPhone que adquiro, pois até então era usuário ávido de celulares com sistema Android. Imediatamente pode-se perceber a qualidade que vai desde a embalagem até o produto em si, com bastante capricho aos detalhes. Afinal, trata-se de um produto de preço elevado. Embora, ainda sim, não acho que se justifique o preço que é cobrado aqui no Brasil. Mas as Americanas apresentou uma oferta extremamente atrativa.  Para alguém que nunca usou iPhone, achei super fácil de configurar de primeira. Creio que o único ponto crítico nesse modelo (iPhone 8 Plus) é o fato dele possuir a traseira manufaturada em vidro, o que aumenta significativamente a cautela no que diz respeito à possíveis quedas. Embora o fabricante alegue se tratar de um vidro reforçado, ainda sim, transmite um certo receio ao manusear. Recomendo a aquisição de uma capa/case ao adquirir este produto.  Fora este detalhe, o produto é excelente. Possui um touch com excelente tempo de resposta, apps extremamente fluídos e um dos principais motivos que me fizeram adquiri-lo , a câmera. Esta última é simplesmente uma das melhores câmeras disponíveis num celular. Até então, é o melhor celular que já tive.  Com certeza recomendo este produto.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.8486546277999878,
+      "correto": false
+    },
+    {
+      "texto": "Gosto de comprar nas americanas , os produtos são ótimos e chegam rápido",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.9005562663078308,
+      "correto": false
+    },
+    {
+      "texto": "Excelente obra do autor. Conta com riqueza de detalhes a luta e dedicação dos pais na busca da realização do sonho doa filhos.  Ainda não acabei de ler mas estou adorando. Parabéns. Recomendo.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9571759700775146,
+      "correto": true
+    },
+    {
+      "texto": "Infelizmente não posso avaliar o produto que não tenho. Foi o primeiro produto que deu problema e agora está sendo o único sem solução. Foi uma bagunça no pedido inteiro, recebi apenas dois dos produtos, um deles foi estornado agora e esse desde o ano passado ainda não foi estornado. Fico no aguardo de uma solução. Grato.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9391506314277649,
+      "correto": true
+    },
+    {
+      "texto": "Muito bom. Minha filha não larga mais. Desde já agradeço a atenção.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.8135949373245239,
+      "correto": false
+    },
+    {
+      "texto": "Que bom que a Lojas Americanas me ressarciram em vale o que gastei. Na foto estão seringas com ponta que dá pra usar no snap fill mas o que foi enviado eram seringas sem ponta, impossíveis de utilizar no snapfill, nem a agulhas que vieram cabiam nas seringas entregues. E a terceirizada de voces ainda queria que eu devolvesse na embalagem original (sendo que vem tão lacrado que é impossível manter inteira a caixa de papelão e não tenho condições físicas de ir aos correios para devolver. Mas, agradeço o ressarcimento que já troquei por outros procutos. Nas lojas Americanas confio, já neste fornecedor terceirizado de voces, a Recartec Brasil, não compro mais nem amarrada pelo descaso que tiveram comigo (no pós atendimento de tentar adquirir o produto correto e eles satirizarem)",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.5707684755325317,
+      "correto": true
+    },
+    {
+      "texto": "Odiei a maleta pra começar.  primeiro veio com a alça solta, eu que tenho que parafusar a alça, segunda a parte de colocar os esmaltes é solta tbm, como os esmaltes cai ficar de pé se qualquer movimento com a maleta a placa que segura os esmaltes sai? Quando fui comprar disseram que entraria em contato comigo pra eu escolher a cor da maleta e isso não aconteceu, veio um coisa horrível de madeira, eu vou ter que pintar essa porcaria? Peço que entre em contato comigo, quero a troca do produto.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9447007179260254,
+      "correto": true
+    },
+    {
+      "texto": "produto muito bom para quem que um som de qualidade mas não é um som para quem quer tremer tudo",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.9241110682487488,
+      "correto": false
+    },
+    {
+      "texto": "O carrinho É muito bonito com material de excelente qualidade fácil de montar e de fechar e abrir.  As rodas são um pouco leves mas eu recomendado o carrinho.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.8436116576194763,
+      "correto": false
+    },
+    {
+      "texto": "Boa noite a justificativa da insatisfação e por que o produto nunca chegou ate a mim pois não tenho como avalia o mesmo difícil a minha situação, comprar e ate o presente momento não ter recebido",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9462242126464844,
+      "correto": true
+    },
+    {
+      "texto": "O tapete que recebi não condiz com o anunciado, baixa qualidade.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9794062972068787,
+      "correto": true
+    },
+    {
+      "texto": "Ele é um pouco  duro e a espuma  e bem  fininha e a custura  está soltando  na parte de baixo",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.885206401348114,
+      "correto": true
+    },
+    {
+      "texto": "ja tive um, comprei esse agora, passei o perfume com 2 horas o cheiro ja tinha saído, ate os da hinode dura o cheiro mais.",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.7394700646400452,
+      "correto": false
+    },
+    {
+      "texto": "recebi o produto quero meu dinheiro de volta. por gentileza entre em contato cmg pata regularizarmos isso o mais urgente possível",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9579856395721436,
+      "correto": true
+    },
+    {
+      "texto": "Não recebi até o momento e não sei se vou recebê-lo!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9721207618713379,
+      "correto": true
+    },
+    {
+      "texto": "Chegou faz uma semana,muito bom mesmo.Adoramos bem do jeito q queríamos.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7245877981185913,
+      "correto": true
+    },
+    {
+      "texto": "Produto Pirata.  Isso é o que dá vender para essas empresas o nome das americanas.... quero ver vocês publicarem isto para os outros clientes.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9294518828392029,
+      "correto": true
+    },
+    {
+      "texto": "Fiz o meu pedido dia 05/02/18,  contendo três itens, porém a bola de basquete não me foi entregue. No site do correio não está atualizado, portanto não consigo saber nem onde anda esse produto e hoje é dia 06/03/18.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8909072279930115,
+      "correto": true
+    },
+    {
+      "texto": "Não comprem, é uma porcaria. Eu comprei, chegou uma bem parecida mas não era está daí, toda amassada riscada com os lacres rompidos, rasgados, vencimento do mês 9/2017 sendo que comprei 02/2018. Adiaram o prazo de entrega duas vezes.O cheiro de fonte queimada é imenso. Americanas enviou-me a minha pela empresa remetente MR MV INFORMÁTICA LTDA ME. Para os otimistas apenas digo \"ela ligou\" boa sorte.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.974736213684082,
+      "correto": true
+    },
+    {
+      "texto": "Aspirador excelente. O fato de ter um cabo como de uma vassoura ajuda muito a não dar dor nas costas, além de ser muito potente. Poder usar como aspirador de mão também é incrível.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9513392448425293,
+      "correto": true
+    },
+    {
+      "texto": "Celular muito bom, câmera e resolução muito boa. Recoemndo.....",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5737627744674683,
+      "correto": true
+    },
+    {
+      "texto": "O Celular é muito bom, a relação custo benefício é indiscutivelmente Ótima. Vale muito a pena.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.788605809211731,
+      "correto": false
+    },
+    {
+      "texto": "Parabéns ao vendedor pela resto habilidade e atenção dada ao cliente Sem contar bom a entrega que foi muito rapido",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.6513034105300903,
+      "correto": true
+    },
+    {
+      "texto": "Filtro é pouco eficiente. Sujou muito durante a primeira filtragem. Praticamente tive que lavar três vezes. Tenho a impressão que saturou.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9696858525276184,
+      "correto": false
+    },
+    {
+      "texto": "GOSTARIA DE SABER SE O PRODUTO É NACIONAL OU IMPORTADO?",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8665486574172974,
+      "correto": true
+    },
+    {
+      "texto": "muito bom produto super recomendo chegou no prazo em perfeito estado",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.6453166604042053,
+      "correto": true
+    },
+    {
+      "texto": "Fraco na memória Ram e Câmera de Foto, por enquanto é o que percebi. Achei a bateria boa, demora descarregar, vamos ver com o tempo.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8086919784545898,
+      "correto": true
+    },
+    {
+      "texto": "Facilitou muito a minha vida para tirar o leite, é fácil de usar e muito prático.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8887939453125,
+      "correto": true
+    },
+    {
+      "texto": "Chegou antes do prazo, o produto é excelente, bateria dura o dia todo. Ótimo custo benefício.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9569908976554871,
+      "correto": true
+    },
+    {
+      "texto": "Estou extremamente insatisfeita, o produto de péssima qualidade. A caneta touch descrita como PRETA veio na cor azul. A película de vidro COBRE A CÂMERA FRONTAL. A capa já descolou inteira, sem falar que já está rasgando nas partes onde dobra. Decepcionada com as parcerias da loja americanas.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9793955683708191,
+      "correto": true
+    },
+    {
+      "texto": "É TOTALMENTE DIFERENTE DA FOTO, QUASE TODOS OS PRODUTOS DAS AMERICANAS SÃO ASSIM, NA FOTO É BEM BONITO MAS QUANDO CHEGA VC VÊ A DIFERENÇA, QUALIDADE BAIXA E BEM SIMPLES, DECEPCIONANTE",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9063197374343872,
+      "correto": true
+    },
+    {
+      "texto": "É um pouco difícil de espremer , mas num todo é bom",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9604624509811401,
+      "correto": true
+    },
+    {
+      "texto": "O produto é fraco e veio com uma parte quebrada, o mesmo foi montado e ele é torto.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9804839491844177,
+      "correto": true
+    },
+    {
+      "texto": "Mas neste pedido, nao recebi no endereco comercial no qual, sempre peco....aguardo retorno.",
+      "esperado": "Positivo",
+      "predito": "Negativo",
+      "confianca": 0.9248970150947571,
+      "correto": false
+    },
+    {
+      "texto": "Boa Noite. Comprei um celular na Americanas e ele foi entregue em 11/12/2017, desde a compra o celular sempre desligava e travava na tela Samsung e não reiniciava e isso aconteceu 3 vezes desde a compra e ele sempre esquentava muito e eu nessas três vezes com muita dificuldade consegui fazer ele funcionar a partir daí na quarta vez ele parou de carregar e quando carregava era com muita dificuldade e do nada ontem quando fui carregar ele esquentou muito e não ligou mais.. e meu celular não tem um mês de uso, e não aconteceu se quer alguma vez de ter caído tanto para provar não a sinais de quedas .. é revoltante que confiei três celulares com a Americanas e um escova alisadora é ela não me atenda neste caso.. aguardo o contato. Lembrando que ainda está na garantia.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8830422163009644,
+      "correto": true
+    },
+    {
+      "texto": "Achei q não compensa pegar uma arara dupla com uma distância tão pequena, acabei usando uma só!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.7775295972824097,
+      "correto": true
+    },
+    {
+      "texto": "Produto bom, só que era presente de Natal e só chegou no ano Novo. Mas tudo bem!!",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.958499014377594,
+      "correto": true
+    },
+    {
+      "texto": "O produto é bom, chegou antes do prazo determinado. Já está instalado e ficou ótimo.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9448939561843872,
+      "correto": true
+    },
+    {
+      "texto": "Comprei e ate hj nao chegou , porque os entregadores ficam la em baixo no prédio e nao sobem para me entrega no meu apartamento . Estou idiguinada.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9136289954185486,
+      "correto": true
+    },
+    {
+      "texto": "Horrive quero meu dinheiro de volta. Não vem fone nem cabo.nem cabo USB não presta",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9788951873779297,
+      "correto": true
+    },
+    {
+      "texto": "Cumpre com o que está descrito nas configurações. Cumpre com o que está descrito nas configurações.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5034725666046143,
+      "correto": true
+    },
+    {
+      "texto": "ele faz ruído e não grava,já mandei 2 emails e não recebi nenhuma explicação,agora seguirei a denunciar e buscar meu reembolso",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9660862684249878,
+      "correto": true
+    },
+    {
+      "texto": "A tecnologia associada a TV é interessante, indicaria a outros amigos...",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9572053551673889,
+      "correto": true
+    },
+    {
+      "texto": "É um aparelho bom , apesar de não ser dos melhores , dá pra quebrar um galho !",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9614657759666443,
+      "correto": true
+    },
+    {
+      "texto": "A ilustração demonstra pouco do produto que é muito leve e de espessura muito fina , mas custo beneficio preservado, bom produto",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9264823198318481,
+      "correto": true
+    },
+    {
+      "texto": "A TV e muito boa não tenho do que reclamar e o prazo de entrega foi ótimo tbm",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.6814249753952026,
+      "correto": true
+    },
+    {
+      "texto": "Gela a água direitinho A água fica gelada, suporta o peso do garrafão tranquilamente.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.5481923818588257,
+      "correto": false
+    },
+    {
+      "texto": "A qualidade é inferior mas pelo valor compensa adiquirir",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.6706516146659851,
+      "correto": false
+    },
+    {
+      "texto": "Fazia muito tempo que a minha bebê vinha me pedindo um boneco menino. Finalmente encontrei um com o preço acessível :) Muito bonitinho, é bem realista e o bom é que com o corpinho de pano a criança pode dormir abraçada!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7851851582527161,
+      "correto": true
+    },
+    {
+      "texto": "Por favor envia-me outro produto dai enviarei de volta a tv com defeito (sem concerto )",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9736552834510803,
+      "correto": true
+    },
+    {
+      "texto": "Bom ,comprei esse kit para as mulheres tomarem no carnaval achando que eram uns drinks prontos q iriam agrada-las mas infelizmente não tiveram aprovação. Apesar de não ser caro não compensa pelo o q oferece, pois não dá prazer nenhum em beber e foi o que aconteceu, elas não beberam e eu tive que beber as abertas sozinho na semana por causa da validade de 7dd. Tomei a de morango e jabuticaba, essa última achei bem doce.  Resumo, querem beber algo diferente essas bebidas não são uma boa opção.",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.9310386776924133,
+      "correto": false
+    },
+    {
+      "texto": "Talv x deverão ser mais honesto com teus clientes pôs pafagos teu salário",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.802618145942688,
+      "correto": false
+    },
+    {
+      "texto": "O rímel é otimo, aumenta cílios e dá volume. E chegou muito rápido. Chegou 5 dias após o pagamento. Amei!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9644213318824768,
+      "correto": true
+    },
+    {
+      "texto": "Se seu cabelo é liso e pouco como o meu vale a pena pra modelar sim...mas se tem muito cabelo esqueça pq ela nao aguenta.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.7472450733184814,
+      "correto": false
+    },
+    {
+      "texto": "Gostei muito do produto, superou minha expectativa. Recomendo e chegou bem ates do prazo.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.9288563132286072,
+      "correto": false
+    },
+    {
+      "texto": "O relógio é muito ruim.  Sugiro interromper a venda. O aparelho é bem fraco e não recomendo",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9805610775947571,
+      "correto": true
+    },
+    {
+      "texto": "Pelo custo e benefício vale a pena o produto e compra aprovada loja correta entrega bem rápida com agilidade gostei do produto existem melhores, mas produto bom e barato, indico para todos.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9419043660163879,
+      "correto": true
+    },
+    {
+      "texto": "celular bom mas, deixa muito a desejar, som muito baixo tanto em video, audio e ate mesmo em ligações",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.913972795009613,
+      "correto": false
+    },
+    {
+      "texto": "CARA, QUAL  A PREVISÃO DE RECEBIMENTO? EU NÃO RECEBI ENTÃO NÃO HÁ COMO AVALIAR ELE. O QUE EU FAÇO AGORA? ERA PRA TER CHEGADO NO MÊS PASSADO E ATÉ AGR NADA. E agr?",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9497638940811157,
+      "correto": false
+    },
+    {
+      "texto": "Bom produto  dentro das expectativas. A entrega foi rápida.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.91839200258255,
+      "correto": true
+    },
+    {
+      "texto": "O perfume entregue está bem aquém das minhas expectativas. Tanto a fixação, quanto a projeção são baixíssimas, o que coloca em dúvida, a originalidade do produto.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8724226355552673,
+      "correto": true
+    },
+    {
+      "texto": "Uma porcaria! A imagem é enganosa, veio um controle que no primeiro uso apresentou falhas de comando, com o analógico direito ringindo, o direcional super sencivel pois ao clicar 1 vez para o lado o controle movimenta como se tivesse clicado 3 ou 4 vezes. E para piorar o SAC das americanas é incomunicável. Estou esperando um retorno deles...",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9788111448287964,
+      "correto": true
+    },
+    {
+      "texto": "Com dois dias de uso os botões pararam de funcionar, a água sai sem parar. Já mandei e-mail pedindo para trocar o produto mas ninguém me retornou... Indignada",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9716473817825317,
+      "correto": true
+    },
+    {
+      "texto": "É bom achei q afinou um pouco meu cabelo mas aos poucos estou vendo resultados positivos deixa um cheiro muito gostoso",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.927943766117096,
+      "correto": true
+    },
+    {
+      "texto": "Bacana os detalhes do produto, só a tampa q não trava corretamente; mais no geral, produto bom.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9601871967315674,
+      "correto": true
+    },
+    {
+      "texto": "Ainda não recebi o produto para avaliar, quase dois meses para receber, infelizmente não vi o prazo para entrega.  Não recomendo.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9716018438339233,
+      "correto": true
+    },
+    {
+      "texto": "Produto muito bom. Muito superior ao vê-lo nas mãos.  Cerâmica excelente. Acabamento impecável.  CHEGOU MUITO BEM EMBALADO.  Recomendo",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8338711857795715,
+      "correto": true
+    },
+    {
+      "texto": "Não liga, fica somente na tela do Android! Não para de iniciar. Não consegui ligar na área de trabalho.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9630097150802612,
+      "correto": true
+    },
+    {
+      "texto": "IMAGEM MARAVILHOSA MAS DEICHA UM POUCO A DESEJAR NO MANUSEIO DA MESMA,(LENTA) E SO PODE SER INSTALADA EM UM SO CELULAR. DO RESTO E BOM INSTALAÇAO MUITO FACIL",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.8990722298622131,
+      "correto": false
+    },
+    {
+      "texto": "A etiquetadora é boa,mas falta um manual de instruções.Não consigo colocar o refil de etiquetas corretamente.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9574925899505615,
+      "correto": true
+    },
+    {
+      "texto": "Escova muito Boa, entrega da lojas americanas muito rápida antes do previsto",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.8483597040176392,
+      "correto": false
+    },
+    {
+      "texto": "excelente, chegou no prazo combinado bem embalado, a cada passo eu era informada onde estava o produto. amei o celular. super recomendo",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9553609490394592,
+      "correto": true
+    },
+    {
+      "texto": "O material utilizado neste \"guarda sol\" é de baixíssima qualidade. Nem um mês resistiu e se rasga com facilidade. Não aguenta UV nem sol forte.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9693853259086609,
+      "correto": true
+    },
+    {
+      "texto": "Gostei muito da compra que fiz. Recomendaria para as amigas!!!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7718601226806641,
+      "correto": true
+    },
+    {
+      "texto": "Comprei a câmera e ainda não consegui usar, pois não veio a bateria! Já entrei em contato por todos os canais e ninguém resolve esse simples problema. Fujam dessa câmera!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9383607506752014,
+      "correto": true
+    },
+    {
+      "texto": "Não compro mais.  Pois não parece ser um perfume e sim uma colônia",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9709190130233765,
+      "correto": true
+    },
+    {
+      "texto": "chegou no prazo mas sapatos maiores que numero 41 ficaram apertados no média, um bom produto",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9351919293403625,
+      "correto": true
+    },
+    {
+      "texto": "Adorei, linda, charmosa! Gostei muito do produto! Excelente!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9571914672851562,
+      "correto": true
+    },
+    {
+      "texto": "muito bom...muito bom...muito bom...muito bom...muito bom..muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...muito bom...",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.7521830201148987,
+      "correto": false
+    },
+    {
+      "texto": "Na minha opinião oferece um bom café? Não é demorado como diziam e sai quentinho",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9563141465187073,
+      "correto": true
+    },
+    {
+      "texto": "E ALGUM TIPO DE BRINCADEIRA. ATRASAR A ENTREGA E ME PEDIR PRA AVALIAR ALGO Q NÃO RECEBI!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9672201871871948,
+      "correto": true
+    },
+    {
+      "texto": "Pelo preço valeu a pena funciona perfeitamente, só o controle remoto que não presta aperta uma tecla ativa outra !",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9230538606643677,
+      "correto": true
+    },
+    {
+      "texto": "Eu não recebi o produto ainda eles falaram que ia entregar no dia 23 não entregaram depois mudaram para o dia 29 e até hoje eu aguardo Eu Estou decepcionado e vou tomar minhas medidas cabíveis já foi descontado na minha fatura já chegou a nota fiscal e o produto nada eles falaram que foi desviado que ia gerar outro pedido e outra nota fiscal então eu vou tomar minhas providências",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9552432298660278,
+      "correto": true
+    },
+    {
+      "texto": "O produto não veio com as luvas e o cabo não tem a metragem descrita (muito curto).",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9649300575256348,
+      "correto": false
+    },
+    {
+      "texto": "Muito bom ! Deixa o cabelo maravilhoso . Entrega rápida. Satisfeita",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8068537712097168,
+      "correto": true
+    },
+    {
+      "texto": "A inovação é boa, mas deveria ter mais qualidade. É justamente do adaptador que eu preciso.",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.9376063346862793,
+      "correto": false
+    },
+    {
+      "texto": "Produto chegou antes do prazo, tive um pouco de dificuldade de montá-lo, pelo fato de leitura do desenho, mas achei um vídeo explicativo no youtube, produto de ótima qualidade a cor veio um pouco diferente do anunciado mas até mais bonita, recomendo a todos,produto veio muito bem embalado sem detalhes, e sim os Leds funcionam, tem um botão de liga desliga de fácil instalação.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.6762958765029907,
+      "correto": false
+    },
+    {
+      "texto": "O design dele é lindo, o fio dele é bem resistente e o manuseio dele é bem pratico. Amei meu mouse.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8695010542869568,
+      "correto": true
+    },
+    {
+      "texto": "O produto é bom , mas demorou quase um mês para entregar e nem entregou na minha casa deixou nos correios tive que pegar uma fila enorme para retirar o produto , muita demora e muita informação desencontrada , nn informa onde tá o produto e nem dava para rastrear !",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.948815107345581,
+      "correto": true
+    },
+    {
+      "texto": "Produto bom, só no primeiro dia de uso soltou a parte de dentro do encaixe da cordinha que puxa p/ motor pegar. Mas uma pessoa arrumou p/ mim e não desencaixou mais. Usei 3 vezes em 15 dias e não apresentou problemas por enquanto.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9582181572914124,
+      "correto": true
+    },
+    {
+      "texto": "O produto é excelente, vale cada centavo, pode comprar sem medo.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9403788447380066,
+      "correto": true
+    },
+    {
+      "texto": "O produto na foto parece ser maior e o secador de cabelo não pega. Muito bonita a penteadeira, pena que é pequena",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.8718022108078003,
+      "correto": false
+    },
+    {
+      "texto": "Produto atendeu minha expectativa! Rápido, câmera muito boa e nem preciso falar da velocidade da entrega. Lojas americanas sempre surpreendendo.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8311004042625427,
+      "correto": true
+    },
+    {
+      "texto": "Não tenho como avaliar o produto já que até hoje ele não chegou na minha casa. Gostaria de saber o que aconteceu.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9536561965942383,
+      "correto": true
+    },
+    {
+      "texto": "Para quem não quer passar mais raiva com ter que ficar carregando a bateria quando mais precisa...eu recomendo este...",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.788155734539032,
+      "correto": true
+    },
+    {
+      "texto": "Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha Não tira o cheiro da cozinha",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9562849402427673,
+      "correto": false
+    },
+    {
+      "texto": "É bem grande cabe muita coisa exemplo blusa e sapato",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9470264911651611,
+      "correto": true
+    },
+    {
+      "texto": "Sem opiniões. Sem opiniões. Sem opiniões. Sem opiniões. Sem opiniões. Sem opiniões. Sem opiniões. Sem opiniões.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9589107632637024,
+      "correto": false
+    },
+    {
+      "texto": "otimo produto,entregue no prazo, em perfeito estado sem avarias",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9545502066612244,
+      "correto": true
+    },
+    {
+      "texto": "Veio faltando duas ponteiras do pé da cedeira, e o barulho dela no chão por falta dessa peça está me incomodando, e 1 das cadeiras veio com os pé tortos.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.922554612159729,
+      "correto": true
+    },
+    {
+      "texto": "Iluminação razoável. Por ser 100 W esperava iluminação mais eficiente.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9553918838500977,
+      "correto": true
+    },
+    {
+      "texto": "Está em fase d teste por enquanto vai bem se não dá nenhum problema posso melhorar a nota",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9397451877593994,
+      "correto": true
+    },
+    {
+      "texto": "Produto excelente gostei muito e recomendo> Produto muito bom",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9297705888748169,
+      "correto": true
+    },
+    {
+      "texto": "O twiter estava quebrado dentro da caixa, muito peça muito fraca.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9726261496543884,
+      "correto": false
+    },
+    {
+      "texto": "Obrigado. Estou satisfeito com a compra e com as Lojas Americanas, responsável e pontual. Recomendo.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.7619284391403198,
+      "correto": false
+    },
+    {
+      "texto": "Tem poucos dias que estou usando .parece bom.Facil manuseio  dos arquivos não eu nenhum conflito até o momento.recomendo",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9087777137756348,
+      "correto": true
+    },
+    {
+      "texto": "Eu utilizava, antes, um cilindro daqueles bem antigos, que foi da minha avó. Funcionava bem, mas o formato da massa ficava por sua imaginação. Depois desmontava e limpava no tanque com água e detergente, secava e fim.  Apesar dessa máquina ser uma versão muito mais moderna, do que era aquela da minha avó, ela faz o serviço de uma forma mais fácil.  A regulagem é por \"botão\" (da minha avó era no \"olhomêtro\"), tem \"faca\" de corte acoplável (da minha avó era na faca de cozinha mesmo), enfim, moderna.  Problemas que encontrei, os componentes parecem meio \"soltos\", não desmontaram ou nada do tipo, mas não passa aquela segurança de uma máquina italiana, por exemplo.  Difícil de limpar, mas muito difícil mesmo. Se por acaso você fizer uma massa mais úmida, ela vai grudar nos componentes e você irá ter uma dor de cabeça para limpar. Como todo o produto é feito de metal e tem componentes internos das engrenagens, fiquei com um pouco de receio de levar direto a torneira para lavar. Medo de enferrujar.  Mas, no fim, fez seu serviço.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8408291935920715,
+      "correto": true
+    },
+    {
+      "texto": "Produto excelente, recomendo entrega no tempo prometido.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9424276351928711,
+      "correto": true
+    },
+    {
+      "texto": "Excelente celular, é  muito bonito, carrega muito rápido!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9552815556526184,
+      "correto": true
+    },
+    {
+      "texto": "Gostei muito do produto, entrega ultra rápida... satisfeitíssimo!!!",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.9211590886116028,
+      "correto": false
+    },
+    {
+      "texto": "A entrega foi realizado antes do prazo. O carrinha também,",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.5291610956192017,
+      "correto": false
+    },
+    {
+      "texto": "Gostei  muito bom esquentasuper bem so não gostei muito pq não é original",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9342818856239319,
+      "correto": true
+    },
+    {
+      "texto": "Não ativa a função ‘descer e subir ‘, não sei se veio com defeito mas não estou satisfeita..",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9049617648124695,
+      "correto": true
+    },
+    {
+      "texto": "O pedido mais tempo do que o previsto para chegar no endereço da entrega do mesmo. Por conseguinte, não esperei por este atraso.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.8333022594451904,
+      "correto": false
+    },
+    {
+      "texto": "Para o preço é um bom produto  Mas a imagem deixa a desejar mesmo com canais hd da sky O som oscila muito",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8946423530578613,
+      "correto": true
+    },
+    {
+      "texto": "Caneta Autoclavável para Bisturi Eletrônico. Bom produto!",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9620246887207031,
+      "correto": true
+    },
+    {
+      "texto": "Atende as minhas necessidades, dentro daquilo que posso pagar...",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8873937129974365,
+      "correto": true
+    },
+    {
+      "texto": "Adorei meu aspirador portátil! Produto de qualidade,muito pratico super indico ! Meu pedido chegou no dia prometido, americanas estão de parabéns!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9532254338264465,
+      "correto": true
+    },
+    {
+      "texto": "O batom reproduz nos lábios a cor autêntica e dura várias horas sem retoque.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7880568504333496,
+      "correto": true
+    },
+    {
+      "texto": "Ele não é mordedor!! Ele é um plástico bem duro, serve apenas como um móbile, pra enfeitar ou pra criança brincar.  Não serve de jeito nenhum para morder.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.965108335018158,
+      "correto": false
+    },
+    {
+      "texto": "Microfone nao funciona Microfone nao funciona Microfone nao funciona",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9737675189971924,
+      "correto": true
+    },
+    {
+      "texto": "Produto com mais de um mês de atraso. Ainda não recebi. Total falta de responsabilidade da Americanas.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9728267192840576,
+      "correto": true
+    },
+    {
+      "texto": "Uma loja desse porte vendendo produtos usados com defeitos pqp ;vai para a justiça .O produto apresentou defeito no botão de ligar ,a caixa do produto está com várias avarias (produto usado) ,nem manuais do console avia .Achei uma tremenda sacanagem ,esperava um produto novo na caixa completo ......espero que entrem em contato comigo e devolvam meu dinheiro",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9698717594146729,
+      "correto": true
+    },
+    {
+      "texto": "Meu cabelo é levemente ondulado e com o produto meu cabelo ficou liso extremo  e com muito brilho, amei!!! Pra quem tinge o cabelo, recomendo pintar depois de passar o produto pq desbota o cabelo.. Recomendo..",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.735227644443512,
+      "correto": true
+    },
+    {
+      "texto": "É um produto bom porem demorou de mais pra chegar na minha residencia.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9488770365715027,
+      "correto": true
+    },
+    {
+      "texto": "Muito bom comprar nas americanas otimos produtos e entrega rápida",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.922735333442688,
+      "correto": true
+    },
+    {
+      "texto": "Não chegou no prazo, é qdo reprogramou chegou dentro o esperado",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.809648334980011,
+      "correto": true
+    },
+    {
+      "texto": "Essas bandejas mágicas possuem o poder de gerar um hambúrguer em cada uma a cada 20 minutos. Hoje abri minha própria hamburgueria e sou muito grata a esse investimento. Recomendo a todos que desejam empreender.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9108729362487793,
+      "correto": true
+    },
+    {
+      "texto": "Gostei muito desse mouse   Muito bom esse mouse eu gostei",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7340716123580933,
+      "correto": true
+    },
+    {
+      "texto": "Ótimo aparelho, muito bonito, bom acabamento, ótimo desempenho de processamento e bateria, bom ideal, tanto para utilização quanto para assisitr vídeos e filmes. Câmera mais que excelente em fotos com luz adequada, um pouco complicada para fotos com pouca luz, saindo fotos tremidas com certa frequência. Meu último aparelho tinha sido um A7 (2016) e é nítida a evolução que a série A obteve na versão 2017. Com certeza recomendo o produto, estou bastante satisfeito.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9506880640983582,
+      "correto": true
+    },
+    {
+      "texto": "Eu esperava mais da qualidade do material. Acabamento mal feito, furacões erradas.... Estou um pouco frustrada!!!!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.973945140838623,
+      "correto": true
+    },
+    {
+      "texto": "Só depois de algumas semanas poderei realmente avaliar o produto.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8637927770614624,
+      "correto": true
+    },
+    {
+      "texto": "não carrega péssimo o produto não realiza o serviço não  gostei.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9803763628005981,
+      "correto": true
+    },
+    {
+      "texto": "Produto atendeu às espectativas e o serviço de venda e entrega foi realizado com muita presteza e atenção, dentro do prazo e com qualidade.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7081705331802368,
+      "correto": true
+    },
+    {
+      "texto": "O produto é lindo, a entrega foi super rápida, porém para bater bolo, por exemplo, achei um pouco fraco, esperava que fosse um pouco mais potente, mas no geral é bom.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9462170600891113,
+      "correto": true
+    },
+    {
+      "texto": "As lojas americanas não dispõem de um canal de atendimento em que se possa falar diretamente com um (a) atendente. Eu nem recebi ainda o produto. Na verdade solicitei o cancelamento. O status permanece \"cancelamento solicitado\" desde 19/12/2017, sem alteração, o que é um absurdo. E aí? O que concluir daqui? Que o cliente não recebe um tratamento adequado.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9696094393730164,
+      "correto": true
+    },
+    {
+      "texto": "O produto é muito bom, porém deu defeito em 20 dias de uso",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.5862960815429688,
+      "correto": false
+    },
+    {
+      "texto": "O produto veio amassado, e não era novo, A loja Americana fez o reembolso de imediato.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9759353995323181,
+      "correto": true
+    },
+    {
+      "texto": "Apesar de ser lenta ao carregar apps como netflix ou youtube, como também a troca de canais, esta TV é muito boa e entrega o que promete. A entrega do produto foi antes do prazo informado. Recomendo!",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.8384712338447571,
+      "correto": false
+    },
+    {
+      "texto": "Comprei uma há alguns anos e adoro tanto que dei uma de aniversário para minha mãe. Tenho cabelo muito comprido e mesmo assim uso ela com frequência. Sem contar que dá tanto para alisar os cabelos quanto  para fazer cachos. E é muito prática para levar na bolsa e para viajar.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.910632312297821,
+      "correto": true
+    },
+    {
+      "texto": "Entrega rápida, produto muito bom. Fiquei muito feliz com essa aquisição.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7431280016899109,
+      "correto": true
+    },
+    {
+      "texto": "Usei uma única vez... Bom produto, leve mas faz muito barulho.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8617129921913147,
+      "correto": true
+    },
+    {
+      "texto": "Fiquei muito decepcionada. Realmente me surpreendeu a diferença de valor comparado a outros sites, o barata sai caro! Mas de 300 por um perfume que não dura 30 minutos na pela.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9529035091400146,
+      "correto": true
+    },
+    {
+      "texto": "A  TV  É EXCELENTE, MAS  O SOM  PE FRAQUINHO A  IMAGEM  È   MUITO  BOA O RECURSO  4K  . NAO  COSEGUIR  ATIVAR  OU PERCEBER",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.8519798517227173,
+      "correto": false
+    },
+    {
+      "texto": "Muito bonita, prática e barata. Faz um cafezinho delicioso, muito rápido e sem mistério nenhum. Simplesmente adorei. ❤",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9511661529541016,
+      "correto": true
+    },
+    {
+      "texto": "Comprei 2 deste Ar, chegou antes do prazo, foi instalado e tudo ok. Gostei muito, quase não faz barulho e gela bem rapido. Quanto ao consumo de energia ainda nao tenho base.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8722609877586365,
+      "correto": true
+    },
+    {
+      "texto": "Não sei pra quem reclamar... Paguei caro por um produto que não funciona.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9752585887908936,
+      "correto": true
+    },
+    {
+      "texto": "recebi um relógio não original, com a pintura descascando, UM HORROR",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9835176467895508,
+      "correto": true
+    },
+    {
+      "texto": "Produto de excelente qualidade!!! Atendeu todas minhas necessidades aqui na minha bancada!!!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9603106379508972,
+      "correto": true
+    },
+    {
+      "texto": "Não tem como avaliar um produto que não recebi!!!!",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9765119552612305,
+      "correto": false
+    },
+    {
+      "texto": "Comprei o Xbox onde preto, com headset. E que tem a entrada para Kinect. Veio o branco . Sem headset, sem entrada pra Kinect, tenho que comprar o adaptador. E adaptador de tomada. Gostei do produto. Mas o vendedor deveria se comunicar, referente a troca. E a propagando.",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.9481670260429382,
+      "correto": false
+    },
+    {
+      "texto": "produto muito bom principalmente pela qualidade e valor paga. ....além de uma remessa muito eficiente.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5888733267784119,
+      "correto": true
+    },
+    {
+      "texto": "Produto bom! Porém Achei a trava muito embaixo e o balde pequeno, tirando esses pontos negativos, o restante funciona muito bem.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9581427574157715,
+      "correto": true
+    },
+    {
+      "texto": "Enorme maravilhoso mas acho que a câmera frontal poderia ser melhor !",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5350470542907715,
+      "correto": true
+    },
+    {
+      "texto": "O produto veio com defeito e a paizão store não esta querendo me devolver o dinheiro. muito chateado.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9791172742843628,
+      "correto": true
+    },
+    {
+      "texto": "OK, o produto excelente e a entrega dentro do combinado.10 Tudo certo.Recomendo.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8931064605712891,
+      "correto": true
+    },
+    {
+      "texto": "Motorzão bom. Bonito, vermelho, grandão, esse número 572 talhado do lado ficou bem interessante, biteludo, de ferro fundido, pesado, tem uns buraquinhos e umas roldanas. Detalhe para o negocinho azul em baixo, dando um toque de contraste ao conjunto. Muito bom... Bom trabalho... bom trabalho...",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.9651080369949341,
+      "correto": false
+    },
+    {
+      "texto": "Gostei do produto. pelo menos nesse tempo que estou usando só tenho elogios. Comprei na loja parceira Mamão com Açúcar. Chegou 12 dias antes do previsto.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.5458633899688721,
+      "correto": true
+    },
+    {
+      "texto": "Função Smart rápida sem travamentos,eficaz,imagem de alta qualidade,assim como o som, devido ao valor da mesma,é uma tv com ótimo custo benefício, recomendo.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7467185854911804,
+      "correto": true
+    },
+    {
+      "texto": "Esta torneira é muito bem acabada, tem um design lindo e seu tamanho diferenciado se encaixa perfeitamente à minha cozinha, deixando-a ultra charmosa! Foi rapidamente despachada, chegando antes do esperado e foi muito bem embalada. É fácil de instalar, podendo ser usada com um aquecedor elétrico (como no meu caso). Embeleza, facilita, me dá até mais ânimo para cozinhar. Fora que a empresa Tubrax tem um atendimento impecável. Tive dúvidas e fui atendida rapidamente por um técnico que me explicou tudo certinho, com muita paciência e atenção. Quer um produto bom e barato? Então pode comprar esta torneira que você não vai se arrepender!!! Eu amo a minha!!!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.933192789554596,
+      "correto": true
+    },
+    {
+      "texto": "O produto ate assusta por tantas funções, porem é lento. Inclusive o meu 4 G nem funciona com ele. Decepcionada!",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9544727206230164,
+      "correto": false
+    },
+    {
+      "texto": "Ela é linda porém não pega totalmente no fundo do bou fica uns 2 dedo mais ou menos de distância, e quando vc liga ela parece q um avião vai decolar da minha cozinha de tão alto que é o barulho dela.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.5149407982826233,
+      "correto": true
+    },
+    {
+      "texto": "o preço está correto?? R$ 10.000,00 ou 10x de R$ 1.000,00.",
+      "esperado": "Negativo",
+      "predito": "Neutro",
+      "confianca": 0.8603931069374084,
+      "correto": false
+    },
+    {
+      "texto": "Ainda não chegou o produto  Como é pedido para avaliar se não chegou?",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.970119833946228,
+      "correto": true
+    },
+    {
+      "texto": "Sapateira simples Mas de boa qualidade Recomendo pelo custo benefício",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9523897767066956,
+      "correto": true
+    },
+    {
+      "texto": "Produto é simplesmente a versão pós-moderna do Santo Graal, quando Jesus Cristo voltar usará esse copo na Santa Ceia.  Valor Irrisório",
+      "esperado": "Positivo",
+      "predito": "Negativo",
+      "confianca": 0.9628376960754395,
+      "correto": false
+    },
+    {
+      "texto": "Recomendo a tds aqueles q precisam.qdo precisar peça por ele.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5851470232009888,
+      "correto": true
+    },
+    {
+      "texto": "Estou satisfeito com o preço, rapidez na entrega e produto em perfeitas condições de uso.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9034872651100159,
+      "correto": true
+    },
+    {
+      "texto": "Produto chegou quando eu não estava em cada, ou seja não veio no prazo! MEU FILHO FICOU SEM O PRESENTE DE NATAL! NUNCA MAIS COMPRO PELA LOJA!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9478244185447693,
+      "correto": true
+    },
+    {
+      "texto": "Mais rápido, impossível!  Daí ter escolhido a Americanas.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.6029602289199829,
+      "correto": true
+    },
+    {
+      "texto": "Facilidade de compra e entrega rápida , gostei muito. Com certeza eu recomendaria a Empresa aos amigos.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.792083203792572,
+      "correto": true
+    },
+    {
+      "texto": "Como vou avaliar meu produto se ele nem chegou ainda .",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9503804445266724,
+      "correto": true
+    },
+    {
+      "texto": "Superou as expectativas. Faz o que promete e muito mais. A roupa sai quase seca.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9467501640319824,
+      "correto": true
+    },
+    {
+      "texto": "recebi o sofa com um rasgo e eles nao vieram ate hoje para trocar, nunca mais compro na americanas. com",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9568416476249695,
+      "correto": true
+    },
+    {
+      "texto": "Esperava maior luminosidade pela \"Wattagem\" anunciada.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.7543576955795288,
+      "correto": true
+    },
+    {
+      "texto": "Comprei uma e com 2 meses de uso apareceu um defeito: uma linha horizontal riscando a tela. Menos mal porque ainda está na garantia. Levei para a assistência e estou aguardando o reparo. Tomara que quando acabar a garantia não apareça outro defeito.  Por enquanto vou aguardar com paciência o desfecho dessa situação. Por isso essa avaliação não termina aqui, veremos o desenrolar dessa história assim que o problema for resolvido...",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9484988451004028,
+      "correto": true
+    },
+    {
+      "texto": "Muito boa escova! As minhas visitas ao dentista se tornaram mais esparsadas e com menos sofrimento na cadeira deste profissional.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8774973750114441,
+      "correto": true
+    },
+    {
+      "texto": "Produto chegou antes do prazo.... recomendo e indico!",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.7684986591339111,
+      "correto": false
+    },
+    {
+      "texto": "Atendeu as expectativas da minha esposa a que presenteei",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7244505882263184,
+      "correto": true
+    },
+    {
+      "texto": "Amei o produto excelente qualidade, memória, rápido. E a loja Americanas está de parabéns entregaram bem antes do prazo e pude curtir o réveillon com ele fazendo lindas fotos pois a câmera frontal é dez, tem flash e é 13 mega pixel",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9537676572799683,
+      "correto": true
+    },
+    {
+      "texto": "foto do produto não é o que está anunciado, na boa, vai dar problema",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9518998861312866,
+      "correto": false
+    },
+    {
+      "texto": "O celular veio com defeito, entrei em contato várias vezes com a samsung e com a lojas Americanas, e nada se resolvia. Primeiro queriam que eu mandasse para a autorizada, para consertar o defeito, sendo que eu como consumidora tenho 7 dias para trocar por um outro novo, eu não aceitei e depois de muitas ligações e insistência consegui falar com uma atendente que fez o processo para a troca. Se eu recomendo o produto ?? Não recomendo, apesar de ser um celular muito bonito é muito dificil a comunicação com os setores responsáveis. Enviei o produto para a troca de um novo celular, e espero que o processo de troca, não seja tão demorado, quanto foi para tentar solucionar o problema.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.934817373752594,
+      "correto": true
+    },
+    {
+      "texto": "Como disse bom mas com volume  baixo mas  o preço  foi bom então  valeu",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9414452910423279,
+      "correto": true
+    },
+    {
+      "texto": "Ainda esperando um produto tenho fé que os Correios ainda vai me entregar pois estou esperando uma informação concreto...",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.5082464814186096,
+      "correto": false
+    },
+    {
+      "texto": "O produto é de boa qualidade, atende a necessidade de minha casa. Bom produto",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.9702418446540833,
+      "correto": false
+    },
+    {
+      "texto": "Alguém conseguiu configurar para a leitura de boletos bancários em geral? Me ajudem. Manual confuso e sem explicações.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.7345852851867676,
+      "correto": true
+    },
+    {
+      "texto": "A foto é muito mais bonito, e qualquer coisa ele corta os dedos",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8336631655693054,
+      "correto": true
+    },
+    {
+      "texto": "muito bom o aparelho e a entrega como sempre antes do prazo",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.829840362071991,
+      "correto": true
+    },
+    {
+      "texto": "tem algo errado baratear o preço mas cobrar 1000 reais só frete tão ficando maluco?!!!!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.949697732925415,
+      "correto": true
+    },
+    {
+      "texto": "PRODUTO FALSO - JÁ COMUNICADO ANTERIORMENTE E SEM NENHUM RETORNO DAS LOJAS AMERICANAS",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9860073328018188,
+      "correto": true
+    },
+    {
+      "texto": "Excelente produto, rápido e eficiente, você coloca as folhas e ele digitaliza frente e verso.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9448225498199463,
+      "correto": true
+    },
+    {
+      "texto": "O Asus X541UA i3 15.6 polegadas é um notebook de entrada, com uma boa relação custo/benefício quando o seu valor está abaixo de R$1.800,00. Acima desse valor, talvez seja melhor considerar outras opções.  Prós: Tem praticamente todas as conexões e une o antigo com o novo. Conexões como entrada VGA praticamente não existem mais, mas para quem precisa conectar esse notebook com um datashow, por exemplo, essa conexão é importante. Tem Bluetooth, Wifi, USB 2.0 e 3.0, além de USB tipo C  (novo padrão), além de HDMI. Também é um dos poucos notebooks que ainda tem leitor/gravador de CD/DVD. O touchpad é grande e bem sensível,  proporcionando rapidez e liberdade no cursor, muito prático mesmo! A tela não é anti-reflexiva, mas é agradável. Pra quem gosta de ouvir música sem usar fone de ouvido, a qualidade de som deste notebook é realmente superior!  Contras: Dobradiça da tela é dura, com o tempo isso pode contribuir para a quebra da carcaça. O clique dos botões do touchpad é muito fundo e barulhento. O teclado também é barulhento, principalmente a metade esquerda dele... chega a incomodar. Não vi vantagem alguma nas teclas serem mais altas. O ponto de interrogação fica na tecla W e com uso da  tecla Alt Gr, isso realmente atrapalha para quem digita muito. Não existe qualquer luz indicadora de Capslock/Maiúsculas, aí você tem que apelar para a configuração de acessibilidade do Windows, para fazer um barulhinho quando ativa ou desativa o Capslock. O  plug do carregador desencaixa com muita facilidade. A câmera é absurdamente péssima, uma VGA com baixíssima resolução (0.3Mp!!!), ou seja, um retrocesso de 15 anos! Porém, não adianta chorar! Essa é a câmera que agora vem em todos os notebooks, de todas as marcas... uma economia porca!",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8985065221786499,
+      "correto": true
+    },
+    {
+      "texto": "Comprei conectei e simplesmente não funciona em meu MAC MINI :(",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9657424688339233,
+      "correto": true
+    },
+    {
+      "texto": "Bom custo beneficio. asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9606156945228577,
+      "correto": true
+    },
+    {
+      "texto": "Só é muito barulhento, fora isso o produto é otimo!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8376482129096985,
+      "correto": true
+    },
+    {
+      "texto": "Foi uma ótima decisão, optar pelo produto. Está me atendendo perfeitamente.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9309670329093933,
+      "correto": true
+    },
+    {
+      "texto": "Muito bom,fazer rápido, gostei muito,prática muito só de pensar em fazer pipoca sem sujar panela..amei",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.7653186321258545,
+      "correto": false
+    },
+    {
+      "texto": "Comprei o produto no dia 26/02/18.  Nâo recebí no prazo marcado.  Após mais de 15 dias de atrazo,  o produto chegou em minha residência, não recebi  e fiz a devolução.    Hoje é 28/03/18.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.95577472448349,
+      "correto": true
+    },
+    {
+      "texto": "Única coisa contra é que poderia fatiar mais fino, tipo mais uma variação de espessura de corte. O resto, potência beleza praticidade tudo dez.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.9307562112808228,
+      "correto": false
+    },
+    {
+      "texto": "Sandália confortável, bonita e elegante. Ótimo custo benefício.  Infelizmente no primeiro dia de uso, acabei em meio a um temporal e molhou toda a sandália, a parte da palmilha começou a descolar logo em seguida. Mas nada que uma cola instantânea não resolva.  Fora isso, dentro do esperado.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.5188415050506592,
+      "correto": true
+    },
+    {
+      "texto": "IMAGEM RUIM PARA UMA TV 4k, IMPOSSÍVEL AJUSTAR UMA COR COM QUALIDADE.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9771252870559692,
+      "correto": true
+    },
+    {
+      "texto": "Produto excelente, chegou antes do prazo, vale a pena comprar.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9509986639022827,
+      "correto": true
+    },
+    {
+      "texto": "Não foi difícil montar mas precisou da ajuda dos familiares .  Muito bom!",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.9428806304931641,
+      "correto": false
+    },
+    {
+      "texto": "não deveriam nem deixa coloca um anuncio desses pelo porte da americana cade as especificações do produto",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9702118635177612,
+      "correto": true
+    },
+    {
+      "texto": "Além da entrega super rápido, amei o meu celular, do jeito que eu queria!!!!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9410450458526611,
+      "correto": true
+    },
+    {
+      "texto": "O produto foi entregue no prazo estipulado. O desempenho é modesto mas supre as necessidades do usuário comum e faz jus ao preço que é vendido. Estou no segundo dia de uso (ainda) e não tenho reclamações.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.9312649369239807,
+      "correto": false
+    },
+    {
+      "texto": "produto de qualidade. Chegou no tempo combinado. Funciona corretamente. Ótimo produto. Recomendo a compra.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9319028258323669,
+      "correto": true
+    },
+    {
+      "texto": "Este produto é para serviços delicados e pequenos.  O acabamento não é muito bom, mas pelo preço compensa.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9370750784873962,
+      "correto": true
+    },
+    {
+      "texto": "Fiz a comprar desse violão, pelo cartão de crédito dois dias depois veio a confirmação da comprar, quando chegou a fratura do cartão tinha feito a primeira parcela porém depois de alguns dias recebi um e-mail que não tinha mais o produto. Paguei sem ao menos saber se tinha o violão em estoque.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9356296062469482,
+      "correto": true
+    },
+    {
+      "texto": "Atá agora, apesar das sucessivas reclamações NÂO RECEBI O PRODUTO, sendo assim não tenho condições de fazer a avaliação.  Todavia com relação com prazo de entrega e ao atendimento  minha avaliação é :                    Serviço de comunicação e entrega de,PESSIMA QUALIDADE.  a ENTREGA ESTAVA PROMETIDA PARA 5 a 8 DIAS E JA SE  PASSOU MAIS DE 1 MES E NÃO RECEBI A MERCADORIA.  vIRGILIO",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.845092236995697,
+      "correto": true
+    },
+    {
+      "texto": "Estou aguardando solucionarem a troca...ate agora nao obtive resposta da loja...primeira vez que me acontece ....nao receber o que nao foi o que realmente comprei...só vou avaliar como convém quando tiver resposta sobre o que houve por nao mandarem esse e sim outro e faltando um dos refil",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.903578519821167,
+      "correto": true
+    },
+    {
+      "texto": "Gostei, recomendo as lojas americanas. Entrega direitinho",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.5298148393630981,
+      "correto": false
+    },
+    {
+      "texto": "Muito bom , atende minhas nescessidades perfeitamente , valor custo  beneficio otimo",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.662693977355957,
+      "correto": true
+    },
+    {
+      "texto": "A mochila é muito bonita, espaçosa e feita com material de qualidade. Parece ser muito resistente. Ótima aquisição!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9391018748283386,
+      "correto": true
+    },
+    {
+      "texto": "Produto de excelente qualidade e custo, recomendo .",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9188064336776733,
+      "correto": true
+    },
+    {
+      "texto": "....................................................................",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9451742768287659,
+      "correto": true
+    },
+    {
+      "texto": "A Americanas anuncia o produto: LIPO 6 BLACK ULTRA CONCENTRATE com 120 cápsulas, e o produto vem apenas 60 cápsulas.  Falta de respeito com o consumidor.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9602136611938477,
+      "correto": true
+    },
+    {
+      "texto": "Produto excelente. Prazo de entrega espetacular, antes do esperado.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.965650200843811,
+      "correto": true
+    },
+    {
+      "texto": "Gostei muito,entrego antes do prazo previsto,Parabéns á equipe de atendimento.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.8677798509597778,
+      "correto": false
+    },
+    {
+      "texto": "sempre bem atendido, com relaçoes as compras neste site",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.5899729132652283,
+      "correto": false
+    },
+    {
+      "texto": "Estou atras desta panela já a algum tempo e por favor Lojas Americanas entrem em contato com a Cadence e  Eletrolux para voltarem a fabricação e divulgação deste produto que hoje não existe no Brasil. Somente importando o que encarece e nos deixa insegura quanto a assistência técnica e reposição de poças. Por Favor?! Obrigada!",
+      "esperado": "Positivo",
+      "predito": "Negativo",
+      "confianca": 0.8396270275115967,
+      "correto": false
+    },
+    {
+      "texto": "Muito bom para gestao. Entender e buscar formas de reconhecimento e incentivo.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5193217992782593,
+      "correto": true
+    },
+    {
+      "texto": "Produto chegou mofado e com o revestimento (mapa)podre Estou aguardando a coletável posteriormente o reembolso.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9802433848381042,
+      "correto": true
+    },
+    {
+      "texto": "Quero ver se posso retirar o produto em minha cidade?",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.8566467761993408,
+      "correto": false
+    },
+    {
+      "texto": "Se eu já tivesse recebido o produto ficaria mais fácil de avaliar, portanto a avaliação diz respeito ao site e não ao produto. Fiz minha compra há um mês e até hoje não recebi a mercadoria. Gostava muito de comprar nesse site, mas minhas duas últimas experiências me deixaram decepcionada.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8402723670005798,
+      "correto": true
+    },
+    {
+      "texto": "Bom produto, recomendo.                Entrega dentro do combinado",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9560893177986145,
+      "correto": true
+    },
+    {
+      "texto": "ELE CHEGOU DIA 24/09/2017 O utilizei normalmente antes de dormir.  O coloquei ao lado da cama, por volta das 23:30 de ontem dia 17/01/2018 e hoje 18/01/2017 as. 2:30 ele simplesmente nao liga. Sempre usei com capinha e pelicula e NUNCA caiu. Estou estremamente chateada.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9212335348129272,
+      "correto": true
+    },
+    {
+      "texto": "Pelo produto em si é até razoavel, mas a bateria deveria ser mais duradoura, e não tem a metade dos aplicativos que eu tinha no outro aparelho da marca Asus Zenfone.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8205434679985046,
+      "correto": true
+    },
+    {
+      "texto": "Recomendo este produto. Produto de boa qualidade. Recomendo este produto. Produto de boa qualidade.Recomendo este produto. Produto de boa qualidade.",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.5443438291549683,
+      "correto": false
+    },
+    {
+      "texto": "Acabei devolvendo todo o aparelho de jantar!!  Veio todo desbotado, com manchas escuras em volta das peças.    E por fim, estão me reembolsando apenas R$ 415,00, sendo que o valor do  aparelho é R$ 429,99 !!!",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9639116525650024,
+      "correto": true
+    },
+    {
+      "texto": "Não gela bem a água não tem regulagem de temperatura",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9273284673690796,
+      "correto": true
+    },
+    {
+      "texto": "Supriu totalmente minha necessidade..........................................................................................................................................................................................................................",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.5955032706260681,
+      "correto": true
+    },
+    {
+      "texto": "demorou a entrega e o smartfone apresentou defeito na ativação do WiFi",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9670587778091431,
+      "correto": true
+    },
+    {
+      "texto": "Comprei o Sony por pensar ser o melhor, me enganei",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.7970119118690491,
+      "correto": true
+    },
+    {
+      "texto": "Uma verdadeira  porcaria  material frágil quem compra  vai  ser arepeder   não é  nada isso que  está na foto",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9814930558204651,
+      "correto": true
+    },
+    {
+      "texto": "O design é lindo, e o celular é ótimo!! Vale muito a pena!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9409970045089722,
+      "correto": true
+    },
+    {
+      "texto": "Eu não aceitaria esse produto nem de graça. Ele solta MUITOS pelos, não só na roupa, mas na casa toda! Já lavei o produto 2 vezes e é impossível de usar sem precisar lavar sua roupa e toda a casa. Já separei para doar para algum sem teto que esteja precisando.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8948212265968323,
+      "correto": true
+    },
+    {
+      "texto": "Arranhou o carro...causou estrago na saída do ar condicionado",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9721304774284363,
+      "correto": true
+    },
+    {
+      "texto": "Realizei a compra desse celular e um j7 junto mas ja faz um mês e nada de chegar, a americanas está deixando a desejar na sua entrega não compro mais aqui!!!",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.6810685992240906,
+      "correto": false
+    },
+    {
+      "texto": "Ótima bá entrega e na qualidade,  recomendo sempre",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9540786743164062,
+      "correto": true
+    },
+    {
+      "texto": "Usei duas vezes  o produto até o momento gostei darei uma nova avaliação daqui dois meses",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8991466760635376,
+      "correto": true
+    },
+    {
+      "texto": "E como a foto mesmo, linda e ficou muito bonito o ambiente",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8633962869644165,
+      "correto": true
+    },
+    {
+      "texto": "Gostei muito do produto,e atende minhas necessidades,bom preço. Não sei se tem haver com o produto ou minha  internet,caso eu conecte a tv no wifi e acesso o youtube por exemplo e tbm esteja com o cel conectado passe alguns minutos a internet desconecta e é preciso reiniciar o modem.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.8763133883476257,
+      "correto": false
+    },
+    {
+      "texto": "Não consigo usar,manual não é claro.ja tentei várias vezes e não dá certo.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9227299094200134,
+      "correto": true
+    },
+    {
+      "texto": "Nao comprei  o produto e provavelmente nao  compraria baseado nessas avaliaçoes,,,como pode alguem que nao comprou poder avaliar? Qual a confiabilidade das avaliaçoes?",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8247837424278259,
+      "correto": true
+    },
+    {
+      "texto": "Produto de boa qualidade so deveria manter mais a temperatura gelada",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9288029074668884,
+      "correto": true
+    },
+    {
+      "texto": "Trabalho com livros do professor há tempos. Esperava que esse fosse como outros, que tem os exercícios e as respostas... porém só vem as respostas. Em sala de aula sigo usando o do aluno... esse acabei deixando em casa, só para o planejamento de aula, caso tenha alguma dúvida na resposta de um exercício.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9320179224014282,
+      "correto": true
+    },
+    {
+      "texto": "A escova é um muito útil, prática e de fácil manuseio. Economizei muito com salão!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8309081196784973,
+      "correto": true
+    },
+    {
+      "texto": "O ferro atendeu as expectativas a entrega foi rápida uma boa escolha!!",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8189058899879456,
+      "correto": true
+    },
+    {
+      "texto": "Muito boa! Ótima utilidade Entrega super rápida , um produto de ótima qualidade.  Recomendo com certeza",
+      "esperado": "Neutro",
+      "predito": "Positivo",
+      "confianca": 0.9359236359596252,
+      "correto": false
+    },
+    {
+      "texto": "As peças vieram todas trocadas, as gavetas eram de montagem apenas de um lado e o manual de montagem errado. Além disso o produto já apresentava arranhões e marcas de batidas.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9638994932174683,
+      "correto": true
+    },
+    {
+      "texto": "total descaso. as capas vieram trocadas. não veio a capa do voltante. não veio abertura para encaixe do encosto de cabeça.  depois de mais de 30 dias de ligações e falta de retorno me mandaram aguardar a ligação da atendente com o numero para devolver o produto para só então me mandarem um novo produto correto.  vamos aguardar que me liguem... e depois aguardar que me retornem o produto correto.  total desrespeito.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9660070538520813,
+      "correto": true
+    },
+    {
+      "texto": "Relação custo benefício mto boa. TV de tamanho grande e preço acessível, qualidade no som e imagem... Gostei da compra!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.8230625987052917,
+      "correto": true
+    },
+    {
+      "texto": "O umidificador domestico ventisol e muito bom, silencioso e eficaz, produto de excelente qualidade.",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9228640198707581,
+      "correto": true
+    },
+    {
+      "texto": "Produto não atende o que se espera, o moedor não funciona corretamente",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.980256974697113,
+      "correto": true
+    },
+    {
+      "texto": "Recebi antes do prazo, porém veio com a tela com defeito. Entrei em contato com a Americanas para a troca do produto, porém ia demorar quase 30 dias. Acabei levando na assistência da Motorola e em 3 dias ficou pronto. No mais, é um bom aparelho. Cumpre suas funções.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9393235445022583,
+      "correto": true
+    },
+    {
+      "texto": "Excelente produto! Amei!imagem , som, tamanho perfeitos. Controle de fácil manuseio, super indico essa TV!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9615632891654968,
+      "correto": true
+    },
+    {
+      "texto": "A cadeirinha é confortável, bem colorida, oferece recurso de vibração. Porém, acredito que poderia oferecer mais recursos, a música que toca ao puxar a alça do sapinho é muito curta, poderia ter mais sons.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9448040127754211,
+      "correto": true
+    },
+    {
+      "texto": "Realizei a compra dia 12/02/2018 e me passaram prazo de 9 dias úteis mais ontem dia 21/02 chegou muito rápido parabéns Americanas! Satisfeita",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.6038968563079834,
+      "correto": true
+    },
+    {
+      "texto": "bom produto com um preco otimo........... .............. ....compraria novamente",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9545749425888062,
+      "correto": true
+    },
+    {
+      "texto": "Peça faltando. Propaganda dubia. Interpretei que seria 1 mop com 4 escovas.",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9411814212799072,
+      "correto": false
+    },
+    {
+      "texto": "otimo mais deveria ser bivolt mais nada a acressentar",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.8239167332649231,
+      "correto": true
+    },
+    {
+      "texto": "Comprei nesse site porém a uma paceira, o prazo da entrega já se expirou faz uma semana e já mandei varias mensagens informando do ocorrido e não obtive nenhum retorno.Acho isso inadmissível fora que já paguei parcelas dos produtos e nada de uma solução para meu caso.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.9339723587036133,
+      "correto": true
+    },
+    {
+      "texto": "a entrega, foi  antes do tempo combinado, mas o produto tem pouca potência",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.5466533303260803,
+      "correto": true
+    },
+    {
+      "texto": "Jogo original, chegou antes do prazo. está funcionando perfeitamente",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.7608457803726196,
+      "correto": true
+    },
+    {
+      "texto": "Pela marca achei que era melhor mas pelo preço foi bom a compra.  Pela marca pensei que Cesária (100 ) vem por cento mas não veda , como tinha falado antes pelo preço foi Boa compra.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.940305233001709,
+      "correto": true
+    },
+    {
+      "texto": "Sem duvida a melhor marca do mercado. Já conhecia por intermédio de amigos. Por ser remador de Standup o Camelbak de cintura é mais anatômico que os de mochila! Mantém a água gelada e muito espaçoso para levar outros objetos Satisfeitíssimo!! Recomendo!",
+      "esperado": "Positivo",
+      "predito": "Positivo",
+      "confianca": 0.9566419720649719,
+      "correto": true
+    },
+    {
+      "texto": "Produto veio quebrado dentro da cx e vimos ao abrir. Ainda sem resposta sobre a troca ou devolução do dinheiro.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.979095458984375,
+      "correto": true
+    },
+    {
+      "texto": "Eu comprei dois celulares, iguais! Fiz a compra dos dois juntos, paguei pelos dois! E só chegou um! Na hora d reclamar, a culpa não é de ninguém... E AI DE MIM se eu falar algo com o \"parceiro\" de vcs! Capaz de eu receber uma \"patada\" Agora eu perdi o dinheiro q eu juntei, e paguei em um celular o valor de dois!!  mas fiquem tranquilos... Vai ter volta!!",
+      "esperado": "Neutro",
+      "predito": "Negativo",
+      "confianca": 0.9077242016792297,
+      "correto": false
+    },
+    {
+      "texto": "TODAS AS MINHAS AMIGAS E PARENTES TEM O J5, TODAS GOSTAM , POREM O MEU ESTA ESQUENTANDO E A BATERIA COM POUCA DURAÇÃO.",
+      "esperado": "Negativo",
+      "predito": "Negativo",
+      "confianca": 0.8965569138526917,
+      "correto": true
+    },
+    {
+      "texto": "Bom produto mas nada de excepcional, poderia ser mais consistente em sua fórmula",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.9281826019287109,
+      "correto": true
+    },
+    {
+      "texto": "Acredito que o produto seja muito bom. Já indiquei para várias pessoas.",
+      "esperado": "Positivo",
+      "predito": "Neutro",
+      "confianca": 0.8111394047737122,
+      "correto": false
+    },
+    {
+      "texto": "Atende o esperado, e foi entregue dentro do prazo. Não possui muita variação de peso, como as outras balanças.",
+      "esperado": "Neutro",
+      "predito": "Neutro",
+      "confianca": 0.60666823387146,
+      "correto": true
+    }
+  ]
+}

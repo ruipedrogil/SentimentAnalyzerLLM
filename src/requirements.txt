@@ -1,0 +1,73 @@
+# ============================================================
+# INSTRUÇÕES DE SETUP — Sistema de Análise de Sentimentos
+# Trabalho Final CLN · UBI · 2025/26
+# ============================================================
+
+
+# ──────────────────────────────────────────────────────────────
+# PASSO 1 — Instalar dependências Python
+# ──────────────────────────────────────────────────────────────
+# pip install -r requirements.txt
+
+transformers>=4.40.0
+torch>=2.2.0
+gradio>=4.31.0
+ollama>=0.2.0
+scikit-learn>=1.4.0
+accelerate>=0.29.0
+
+
+# ──────────────────────────────────────────────────────────────
+# PASSO 2 — Instalar Ollama (LLM local)
+# ──────────────────────────────────────────────────────────────
+#
+# Linux / macOS:
+#   curl -fsSL https://ollama.com/install.sh | sh
+#
+# Windows:
+#   Descarregar o instalador em https://ollama.com/download
+#
+# Depois de instalar, descarregar o modelo Mistral:
+#   ollama pull mistral
+#
+# Alternativas mais leves (se a GPU tiver < 8GB VRAM):
+#   ollama pull phi3          # ~2.3 GB
+#   ollama pull llama3.2      # ~2.0 GB
+#
+# Verificar se o Ollama está a correr:
+#   ollama list
+
+
+# ──────────────────────────────────────────────────────────────
+# PASSO 3 — O modelo HuggingFace descarrega automaticamente
+# ──────────────────────────────────────────────────────────────
+# Na primeira execução, o modelo XLM-RoBERTa (~1.1 GB) é
+# descarregado do HuggingFace Hub para a cache local em:
+#   ~/.cache/huggingface/hub/
+#
+# Após o primeiro download, funciona completamente offline.
+
+
+# ──────────────────────────────────────────────────────────────
+# PASSO 4 — Executar o sistema
+# ──────────────────────────────────────────────────────────────
+
+# Versão terminal (demo rápida):
+#   python sentiment_analyzer.py
+
+# Interface Gradio (recomendado):
+#   python app.py
+#   → Abre no browser em http://localhost:7860
+
+# Avaliação com métricas:
+#   python evaluate.py
+
+
+# ──────────────────────────────────────────────────────────────
+# ESTRUTURA DE FICHEIROS
+# ──────────────────────────────────────────────────────────────
+#
+# sentiment_analyzer.py   → Pipeline principal (XLM-RoBERTa + Ollama)
+# app.py                  → Interface Gradio
+# evaluate.py             → Avaliação com métricas (F1, Accuracy, etc.)
+# requirements.txt        → Este ficheiro
