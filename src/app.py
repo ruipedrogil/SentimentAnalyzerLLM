@@ -105,7 +105,7 @@ with gr.Blocks(
                 lines=5,
             )
             modelo_llm = gr.Dropdown(
-                choices=["mistral", "llama3", "llama3.2", "phi3"],
+                choices=["mistral", "llama3", "llama3.2", "phi3"], # só o mistral é que está instalado, para os outros 3 teria de se fazer ollama pull llamma3, ollama pull llama3.2, ollama pull phi3
                 value="mistral",
                 label="Modelo LLM local (Ollama)",
             )

@@ -153,10 +153,6 @@ if __name__ == "__main__":
         "O pacote chegou dentro do prazo previsto.",
     ]
 
-    print("\n" + "="*60)
-    print("SISTEMA DE ANÁLISE DE SENTIMENTOS HÍBRIDO")
-    print("="*60)
-
     for texto in exemplos:
         resultado = sistema.analisar(texto)
         print(f"\nTexto: {resultado['texto']}")
