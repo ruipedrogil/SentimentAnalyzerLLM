@@ -1,6 +1,5 @@
 import pandas as pd
 
-print("[INFO] A descarregar dataset B2W Reviews a partir do GitHub...")
 
 # Usamos diretamente o mirror do GitHub que funciona no teu ambiente
 url_github = "https://raw.githubusercontent.com/americanas-tech/b2w-reviews01/main/B2W-Reviews01.csv"

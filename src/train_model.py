@@ -114,13 +114,10 @@ def treinar(args):
 def avaliar_modelo_finetuned(model_path, test_data_path):
     """Lê o modelo treinado e avalia-o no teu dataset de avaliação de 300 linhas."""
     if not os.path.exists(test_data_path):
-        print(f"\n[ERRO] Dataset de teste não encontrado para avaliação final: {test_data_path}")
+        print(f"\nDataset de teste não encontrado para avaliação final: {test_data_path}")
         return
 
-    print(f"\n{'='*60}")
-    print(f"  AVALIAÇÃO FINAL: Modelo Fine-Tuned vs Exame Final (300 reviews)")
-    print(f"{'='*60}")
-
+    print(f"Avaliação Final: Modelo Fine-Tuned vs Exame Final (300 reviews)")
     # Desativa o aviso chato da pipeline sequencial
     import warnings
     warnings.filterwarnings("ignore")
@@ -154,7 +151,7 @@ def avaliar_modelo_finetuned(model_path, test_data_path):
 
     acc = accuracy_score(y_true, y_pred)
     
-    print(f"\n  Accuracy Final: {acc:.1%}  (Lembrança: O base tinha 64.3%!)")
+    print(f"\n  Accuracy Final: {acc:.1%}  (O base tinha 64.3%)")
     print("\n" + classification_report(y_true, y_pred, labels=["Negativo", "Neutro", "Positivo"]))
 
 if __name__ == "__main__":

@@ -41,10 +41,8 @@ def avaliar_csv(caminho_csv="../data/dataset_avaliacao.csv", pasta_modelo="./meu
         "Negative": "Negativo", "Neutral": "Neutro", "Positive": "Positivo"
     }
 
-    print(f"\n{'='*60}")
-    print(f"  AVALIAÇÃO QUANTITATIVA (MEU RoBERTa) — {len(df)} exemplos")
-    print(f"{'='*60}\n")
-
+    
+    print(f"Avaliação do modelo fine-tuned RoBERTa — {len(df)} exemplos")
     for index, row in df.iterrows():
         texto = row['texto']
         # Força Capitalização
@@ -72,9 +70,7 @@ def avaliar_csv(caminho_csv="../data/dataset_avaliacao.csv", pasta_modelo="./meu
     # metrics 
     labels_ordem = ["Negativo", "Neutro", "Positivo"]
     
-    print(f"\n{'='*60}")
-    print("  RELATÓRIO DE CLASSIFICAÇÃO FINAL (Scikit-Learn)")
-    print(f"{'='*60}")
+    print("Relatório de classificação final (Scikit-Learn)")
     print(classification_report(y_true, y_pred, labels=labels_ordem))
 
     print("\nMatriz de Confusão:")
