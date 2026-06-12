@@ -35,7 +35,7 @@ def treinar(args):
     else:
         print(f" Dataset de teste ({args.test_data_path}) não encontrado.")
 
-    # Mapeamento do modelo original: 0=Negative, 1=Neutral, 2=Positive
+    # original model's mapping --> 0=Negative, 1=Neutral, 2=Positive
     def rating_to_label_id(r):
         if r <= 2: return 0
         elif r == 3: return 1
