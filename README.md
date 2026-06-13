@@ -34,7 +34,7 @@ O ecossistema divide-se em duas camadas principais:
 | **Negativo** | 0.79 | 0.88 | 0.83 | 100 |
 | **Neutro** | 0.72 | 0.63 | 0.67 | 100 |
 | **Positivo** | 0.82 | 0.83 | 0.83 | 100 |
-| **Exatidão Geral (Accuracy)** | | | **78.0%** | **300** |
+| **Acurácia Geral (Accuracy)** | | | **78.0%** | **300** |
 
 [cite_start]*Nota: A classe Neutra constitui o maior desafio analítico devido à prevalência de sentimentos mistos na mesma frase (e.g., elogio ao produto, mas crítica severa à logística de entrega)[cite: 300, 301]. [cite_start]É precisamente nesta fronteira semântica que a componente explicativa do Mistral 7B mitiga a opacidade de "caixa-preta", contextualizando o veredicto[cite: 303, 304].*
 
