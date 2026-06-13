@@ -5,27 +5,27 @@
 [![Framework](https://img.shields.io/badge/UI-Gradio-FF5722?logo=gradio&logoColor=white)](https://gradio.app)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[cite_start]Este repositório contém o código-fonte e a documentação do projeto desenvolvido para a unidade curricular de **Computação em Linguagem Natural** do Mestrado em Engenharia Informática na **Universidade da Beira Interior (UBI)**.
+Este repositório contém o código-fonte e a documentação do projeto desenvolvido para a unidade curricular de **Computação em Linguagem Natural** do Mestrado em Engenharia Informática na **Universidade da Beira Interior (UBI)**.
 
-[cite_start]O sistema implementa uma arquitetura modular baseada num *pipeline* sequencial de dois níveis independentes, projetada para operar de forma **100% local e offline**, garantindo a total privacidade dos dados do utilizador[cite: 6, 137].
+O sistema implementa uma arquitetura modular baseada num *pipeline* sequencial de dois níveis independentes, projetada para operar de forma **100% local e offline**, garantindo a total privacidade dos dados do utilizador.
 
 ---
 
 ## 🗺️ Visão Geral da Arquitetura
 
 O ecossistema divide-se em duas camadas principais:
-1. [cite_start]**Nível 1 (Classificador Discriminativo):** O modelo *encoder-only* **XLM-RoBERTa** (fine-tuned localmente) processa a string de entrada quase instantaneamente, extraindo a predição categórica (Positivo, Negativo ou Neutro) e a sua respetiva distribuição probabilística de confiança[cite: 6, 7, 157, 158, 159].
-2. [cite_start]**Nível 2 (Explicação Generativa Local):** O módulo *Prompt Builder* encapsula os dados numéricos do Nível 1 e reconstrói um prompt estruturado[cite: 145, 191]. [cite_start]Este é enviado ao LLM **Mistral 7B** (executado via *Ollama*), que formula uma justificação textual em português europeu, identificando as palavras-chave determinantes da classificação (IA Explicável - XAI)[cite: 8, 146, 147, 196].
+1. **Nível 1 (Classificador Discriminativo):** O modelo *encoder-only* **XLM-RoBERTa** (fine-tuned localmente) processa a string de entrada quase instantaneamente, extraindo a predição categórica (Positivo, Negativo ou Neutro) e a sua respetiva distribuição probabilística de confiança.
+2. **Nível 2 (Explicação Generativa Local):** O módulo *Prompt Builder* encapsula os dados numéricos do Nível 1 e reconstrói um prompt estruturado[cite: 145, 191]. [cite_start]Este é enviado ao LLM **Mistral 7B** (executado via *Ollama*), que formula uma justificação textual em português europeu, identificando as palavras-chave determinantes da classificação (IA Explicável - XAI).
 
 ---
 
 ## 📊 Resultados Experimentais
 
-[cite_start]O classificador foi treinado localmente com 3000 exemplos do *corpus* público **B2W-Reviews** (avaliações reais de e-commerce em português) e avaliado num conjunto de teste isolado e balanceado de 300 amostras[cite: 224, 227, 231].
+O classificador foi treinado localmente com 3000 exemplos do *corpus* público **B2W-Reviews** (avaliações reais de e-commerce em português) e avaliado num conjunto de teste isolado e balanceado de 300 amostras.
 
 ### Evolução de Desempenho (Adaptação de Domínio)
-* [cite_start]**Modelo Base (`cardiffnlp/twitter-xlm-roberta-base-sentiment`):** 64.3% de Acurácia[cite: 35, 254].
-* [cite_start]**Sistema Proposto (Após Fine-Tuning Local):** **78.0% de Acurácia**[cite: 10, 255].
+* **Modelo Base (`cardiffnlp/twitter-xlm-roberta-base-sentiment`):** 64.3% de Acurácia.
+* **Sistema Proposto (Após Fine-Tuning Local):** **78.0% de Acurácia**.
 
 ### Métricas Finais Detalhadas por Classe
 
@@ -36,13 +36,13 @@ O ecossistema divide-se em duas camadas principais:
 | **Positivo** | 0.82 | 0.83 | 0.83 | 100 |
 | **Acurácia Geral (Accuracy)** | | | **78.0%** | **300** |
 
-[cite_start]*Nota: A classe Neutra constitui o maior desafio analítico devido à prevalência de sentimentos mistos na mesma frase (e.g., elogio ao produto, mas crítica severa à logística de entrega)[cite: 300, 301]. [cite_start]É precisamente nesta fronteira semântica que a componente explicativa do Mistral 7B mitiga a opacidade de "caixa-preta", contextualizando o veredicto[cite: 303, 304].*
+*Nota: A classe Neutra constitui o maior desafio analítico devido à prevalência de sentimentos mistos na mesma frase (e.g., elogio ao produto, mas crítica severa à logística de entrega). É precisamente nesta fronteira semântica que a componente explicativa do Mistral 7B mitiga a opacidade de "caixa-preta", contextualizando o veredicto*
 
 ---
 
 ## 📂 Estrutura de Ficheiros do Projeto
 
-O código-fonte está modularizado de forma a separar claramente as responsabilidades de engenharia de dados, treino, inferência e interface[cite: 220, 374]:
+O código-fonte está modularizado de forma a separar claramente as responsabilidades de engenharia de dados, treino, inferência e interface:
 
 ```text
 projeto/
