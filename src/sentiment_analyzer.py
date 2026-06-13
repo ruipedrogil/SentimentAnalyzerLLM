@@ -1,8 +1,3 @@
-"""
-Sistema de Análise de Sentimentos Híbrido
-Combina XLM-RoBERTa (classificação) + Ollama/Mistral (explicação)
-Trabalho Final CLN - UBI
-"""
 
 from transformers import pipeline
 import ollama

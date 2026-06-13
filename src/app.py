@@ -1,7 +1,3 @@
-"""
-Interface Gradio para o Sistema de Análise de Sentimentos Híbrido
-Trabalho Final CLN - UBI
-"""
 
 import gradio as gr
 import json
@@ -37,7 +33,7 @@ def analisar(texto: str, modelo_llm: str):
         sistema.explicador, "modelo", modelo_llm
     ) or sistema.analisar(texto)
 
-    # Se setattr retornou None (sempre), re-analisar
+    # se setattr retornou None (sempre), re-analisar
     if not isinstance(resultado, dict):
         sistema.explicador.modelo = modelo_llm
         resultado = sistema.analisar(texto)

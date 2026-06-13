@@ -1,10 +1,10 @@
 import pandas as pd
 
 
-# Usamos diretamente o mirror do GitHub que funciona no teu ambiente
+# usa-se diretamente o caminho do GitHub que funciona
 url_github = "https://raw.githubusercontent.com/americanas-tech/b2w-reviews01/main/B2W-Reviews01.csv"
 
-# Ler o CSV diretamente (low_memory=False para evitar warnings)
+# ler o CSV diretamente (low_memory=False para evitar warnings)
 df = pd.read_csv(url_github, low_memory=False)
 
 # Manter apenas colunas relevantes e remover linhas vazias (nulls)
@@ -23,16 +23,16 @@ def rating_to_label(r):
 df['label'] = df['overall_rating'].apply(rating_to_label)
 df = df.rename(columns={'review_text': 'texto'})[['texto', 'label']]
 
-# Amostra balanceada: 100 por classe (300 exemplos no total)
+# amostra balanced, 100 por classe (300 exemplos no total)
 N_POR_CLASSE = 100
 
-# Usar .sample() diretamente no groupby (evita o bug do .apply() na tua versão do pandas)
+# usar .sample() diretamente no groupby (evita o bug do .apply() na versão do pandas)
 sample = df.groupby('label').sample(n=N_POR_CLASSE, random_state=42)
 
-# Embaralhar a ordem aleatoriamente e resetar o index de forma segura
+# baralhar a ordem aleatoriamente e dar reset ao index de forma segura
 sample = sample.sample(frac=1, random_state=42).reset_index(drop=True)
 
-# Guardar em disco
+# guardar
 sample.to_csv('dataset_avaliacao.csv', index=False, encoding='utf-8')
 
 print(f"\n[OK] Dataset criado com sucesso: {len(sample)} exemplos")

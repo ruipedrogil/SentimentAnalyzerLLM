@@ -1,8 +1,3 @@
-"""
-Avaliação Quantitativa do Sistema de Análise de Sentimentos
-Lê o dataset de 300 reviews e avalia o modelo fine-tuned local.
-Trabalho Final CLN - UBI
-"""
 
 import pandas as pd
 from transformers import pipeline
@@ -45,13 +40,13 @@ def avaliar_csv(caminho_csv="../data/dataset_avaliacao.csv", pasta_modelo="./meu
     print(f"Avaliação do modelo fine-tuned RoBERTa — {len(df)} exemplos")
     for index, row in df.iterrows():
         texto = row['texto']
-        # Força Capitalização
+        # forca o caps do esperado
         label_esperado = str(row['label']).capitalize()
 
-        # Inferência
+        # ineferencia
         resultado = pipe(texto)[0]
         
-        # Mapeia e Força Capitalização
+        # mapeia e força o caps
         label_pred = mapa_labels.get(resultado['label'], resultado['label']).capitalize()
 
         y_true.append(label_esperado)
@@ -70,7 +65,7 @@ def avaliar_csv(caminho_csv="../data/dataset_avaliacao.csv", pasta_modelo="./meu
     # metrics 
     labels_ordem = ["Negativo", "Neutro", "Positivo"]
     
-    print("Relatório de classificação final (Scikit-Learn)")
+    print("Relatório de classificação final")
     print(classification_report(y_true, y_pred, labels=labels_ordem))
 
     print("\nMatriz de Confusão:")

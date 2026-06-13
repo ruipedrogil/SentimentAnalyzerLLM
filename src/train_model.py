@@ -1,7 +1,3 @@
-"""
-Treino (Fine-Tuning) do XLM-RoBERTa para Análise de Sentimentos em E-commerce
-Trabalho Final CLN - UBI
-"""
 
 import os
 import argparse
@@ -53,7 +49,7 @@ def treinar(args):
     dataset_treino = Dataset.from_pandas(df_treino[['texto', 'label']])
     dataset_val = Dataset.from_pandas(df_val[['texto', 'label']])
 
-    #  load model and tokenizer
+    # load model and tokenizer
     modelo_base = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
 
     tokenizer = AutoTokenizer.from_pretrained(modelo_base)
@@ -112,13 +108,12 @@ def treinar(args):
     return args.model_out
 
 def avaliar_modelo_finetuned(model_path, test_data_path):
-    """Lê o modelo treinado e avalia-o no teu dataset de avaliação de 300 linhas."""
+    """Lê o modelo treinado e avalia-o no dataset de avaliação de 300 linhas."""
     if not os.path.exists(test_data_path):
         print(f"\nDataset de teste não encontrado para avaliação final: {test_data_path}")
         return
 
     print(f"Avaliação Final: Modelo Fine-Tuned vs Exame Final (300 reviews)")
-    # Desativa o aviso chato da pipeline sequencial
     import warnings
     warnings.filterwarnings("ignore")
 
@@ -128,7 +123,7 @@ def avaliar_modelo_finetuned(model_path, test_data_path):
         tokenizer=model_path, 
         truncation=True, 
         max_length=128,
-        device=0 # Usa GPU se disponível
+        device=0 # usa a GPU se disponível
     )
 
     df_teste = pd.read_csv(test_data_path)
