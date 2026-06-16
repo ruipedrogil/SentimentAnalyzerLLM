@@ -78,9 +78,9 @@ O processo de otimização local foi executado em ambiente PyTorch com as seguin
 - Instala e inicializa o Ollama no teu sistema.
 - Descarrega o modelo Mistral executando o seguinte comando no terminal:
 
-```
-ollama run mistral
-```
+  ```bash
+  ollama run mistral
+  ```
 
 #### Instalação:
 
@@ -93,7 +93,7 @@ ollama run mistral
 
 - Instala as dependências necessárias:
 
-  ```
+  ```bash
   pip install -r requirements.txt
   ```
 
@@ -101,6 +101,6 @@ ollama run mistral
 
 - Para lançar a interface gráfica interativa do Gradio no teu browser local (http://127.0.0.1:7860), executa:
 
-  ```
+  ```bash
   python app.py
   ```
