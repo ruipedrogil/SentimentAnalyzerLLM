@@ -87,7 +87,7 @@ O processo de otimização local foi executado em ambiente PyTorch com as seguin
 - Clona este repositório:
 
   ```bash
-   git clone [https://github.com/ruipedrogil/SentimentAnalyzerLLM.git](https://github.com/ruipedrogil/SentimentAnalyzerLLM.git)
+   git clone https://github.com/ruipedrogil/SentimentAnalyzerLLM.git
    cd SentimentAnalyzerLLM
   ```
 
