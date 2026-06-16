@@ -53,3 +53,54 @@ projeto/
 ├── evaluate.py             # Script para avaliação quantitativa e geração de métricas
 ├── visualize.py            # Geração dos gráficos de performance presentes no relatório
 └── dataset_avaliacao.csv   # Conjunto de teste isolado (300 amostras estáveis)
+```
+
+---
+
+## 🛠️ Hiperparâmetros de Treino
+
+O processo de otimização local foi executado em ambiente PyTorch com as seguintes configurações:
+
+- Taxa de Aprendizagem: $2 \times 10^{-5}$;
+- Dimensão do Lote (Batch Size): 8 (Treino e Avaliação);
+- Otimizador: AdamW;
+- Decaimento de Pesos (Weight Decay): 0.01;
+- Prevenção de Overfitting: Early Stopping com paciência de 2 épocas;
+- Otimização de VRAM: Alocação dinâmica de matrizes via DataCollatorWithPadding.
+
+---
+
+## 🚀 Como Executar Localmente
+
+#### Pré-requisitos:
+
+- Certifica-te de ter o Python 3.10 ou superior instalado.
+- Instala e inicializa o Ollama no teu sistema.
+- Descarrega o modelo Mistral executando o seguinte comando no terminal:
+
+```
+ollama run mistral
+```
+
+#### Instalação:
+
+- Clona este repositório:
+
+  ```
+  git clone [https://github.com/teu-utilizador/sistema-hibrido-sentimentos.git](https://github.com/teu-utilizador/sistema-hibrido-sentimentos.git)
+  cd sistema-hibrido-sentimentos
+  ```
+
+- Instala as dependências necessárias:
+
+  ```
+  pip install -r requirements.txt
+  ```
+
+#### Execução do Sistema:
+
+- Para lançar a interface gráfica interativa do Gradio no teu browser local (http://127.0.0.1:7860), executa:
+
+  ```
+  python app.py
+  ```
