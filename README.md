@@ -86,9 +86,9 @@ ollama run mistral
 
 - Clona este repositório:
 
-  ```
-  git clone [https://github.com/teu-utilizador/sistema-hibrido-sentimentos.git](https://github.com/ruipedrogil/SentimentAnalyzerLLM.git)
-  cd sistema-hibrido-sentimentos
+  ```bash
+   git clone [https://github.com/ruipedrogil/SentimentAnalyzerLLM.git](https://github.com/ruipedrogil/SentimentAnalyzerLLM.git)
+   cd SentimentAnalyzerLLM
   ```
 
 - Instala as dependências necessárias:
